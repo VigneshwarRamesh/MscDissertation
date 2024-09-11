@@ -1,0 +1,3 @@
+QuickSight Dashboard Link
+
+https://us-west-2.quicksight.aws.amazon.com/sn/dashboards/bc59fadd-655c-4f51-aac9-4b7973bb04a6/views/7812f148-d388-40f6-809b-71031db75565?directory_alias=vigneshwar0306
